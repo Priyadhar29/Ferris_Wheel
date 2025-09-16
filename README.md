@@ -55,7 +55,7 @@ CSS-Animation-Ferris-Wheel/
 
 ## 📸 Screenshot
 
-https://github.com/Priyadhar29/Ferris_Wheel/blob/main/Screenshot%202025-09-16%20101123.png
+Screenshot%202025-09-16%20101123.png
 
 ---
 
