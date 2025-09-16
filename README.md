@@ -53,10 +53,10 @@ CSS-Animation-Ferris-Wheel/
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
-### Reference
-![Referrence](/Screenshot 2025-09-16 101123.png)
+   ### Reference
+   ![Referrence](Demo.png)
 
 ---
 
