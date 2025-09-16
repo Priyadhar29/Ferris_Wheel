@@ -55,7 +55,7 @@ CSS-Animation-Ferris-Wheel/
 
 ## 📸 Screenshot
 
-Screenshot%202025-09-16%20101123.png
+Screenshot 2025-09-16 101123.png
 
 ---
 
