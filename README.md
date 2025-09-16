@@ -55,7 +55,7 @@ CSS-Animation-Ferris-Wheel/
 
 ## 📸 Screenshot
 
-(Add a screenshot or GIF of the rotating Ferris wheel here to showcase the animation.)
+https://github.com/Priyadhar29/Ferris_Wheel/blob/main/Screenshot%202025-09-16%20101123.png
 
 ---
 
